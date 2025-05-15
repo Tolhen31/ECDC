@@ -8,7 +8,7 @@
 
 ## 📦 Description
 
-**Enemy Cooldown Count (ECDC)** is an addon for World of Warcraft Classic that displays **enemy cooldown icons** in real time.  
+**Enemy Cooldown Count Classic (ECDC)** is an addon for World of Warcraft Classic that displays **enemy cooldown icons** in real time.  
 It helps you track major abilities used by your opponents—ideal for PvP or competitive PvE.
 
 ---
