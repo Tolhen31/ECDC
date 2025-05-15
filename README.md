@@ -32,7 +32,7 @@ It helps you track major abilities used by your opponents—ideal for PvP or com
 1. Download and extract the ZIP file.
 2. Place the folder in your WoW installation at:
    ```
-   _classic_/Interface/AddOns/ECDC
+   .\World of Warcraft\_classic_era_\Interface\AddOns\ECDC
    ```
 3. Restart the game or use `/reload`.
 
