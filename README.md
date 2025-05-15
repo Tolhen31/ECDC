@@ -1,6 +1,6 @@
-# Enemy Cooldown Count (ECDC)
+# Enemy Cooldown Count Classic (ECDC)
 
-**Version:** 3.0.0  
+**Version:** 3.1.0  
 **Author:** Swagkhalifa (Mograine EU), updated by Tolhen (EU)  
 **Supports:** World of Warcraft Classic 1.15.7 (Classic Era & 20th Anniversary)
 
