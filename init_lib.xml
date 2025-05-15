@@ -1,0 +1,14 @@
+<Ui>
+  <Script file="Libs\\Ace3\\LibStub\\LibStub.lua"/>
+  <Script file="Libs\\Ace3\\CallbackHandler-1.0\\CallbackHandler-1.0.lua"/>
+  <Script file="Libs\\Ace3\\AceGUI-3.0\\AceGUI-3.0.lua"/>
+  <!-- AceGUI Widgets -->
+  <Script file="Libs\\Ace3\\AceGUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua"/>
+  <Script file="Libs\\Ace3\\AceGUI-3.0\\widgets\\AceGUIContainer-ScrollFrame.lua"/>
+  <Script file="Libs\\Ace3\\AceGUI-3.0\\widgets\\AceGUIWidget-Label.lua"/>              
+  <!-- AceConfig -->
+  <Script file="Libs\\Ace3\\AceConfig-3.0\\AceConfigRegistry-3.0\\AceConfigRegistry-3.0.lua"/>
+  <Script file="Libs\\Ace3\\AceConfig-3.0\\AceConfigCmd-3.0\\AceConfigCmd-3.0.lua"/>
+  <Script file="Libs\\Ace3\\AceConfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua"/>
+  <Script file="Libs\\Ace3\\AceConfig-3.0\\AceConfig-3.0.lua"/>
+</Ui>
