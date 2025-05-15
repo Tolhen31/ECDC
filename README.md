@@ -1,14 +1,14 @@
 # Enemy Cooldown Count (ECDC)
 
 **Version:** 3.0.0  
-**Author:** Swagkhalifa (Mograine EU)  
-**Supports:** World of Warcraft Classic Era (20th Anniversary, 1.15.7+)
+**Author:** Swagkhalifa (Mograine EU), updated by Tolhen (EU)  
+**Supports:** World of Warcraft Classic 1.15.7 (Classic Era & 20th Anniversary)
 
 ---
 
 ## 📦 Description
 
-**Enemy Cooldown Count (ECDC)** is an addon for World of Warcraft Classic 1.15.7 (Classic Era & 20th anniversary) that displays **enemy cooldown icons** in real time.  
+**Enemy Cooldown Count (ECDC)** is an addon for World of Warcraft Classic that displays **enemy cooldown icons** in real time.  
 It helps you track major abilities used by your opponents—ideal for PvP or competitive PvE.
 
 ---
